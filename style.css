@@ -84,3 +84,29 @@ th, td {
 manga {
   margin-top: 20px;
 }
+
+
+/* ダークモード */
+body.dark-mode {
+  background-color: #292D32;
+  color: #E8E8E8;
+}
+
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3 {
+  color: #B8C9B2;
+  border-bottom-color: #B8C9B2;
+}
+
+body.dark-mode table {
+  border-color: #555B60;
+}
+
+body.dark-mode th {
+  background-color: #667A65;
+}
+
+body.dark-mode td {
+  border-color: #555B60;
+}
