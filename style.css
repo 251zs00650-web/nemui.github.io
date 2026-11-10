@@ -110,3 +110,10 @@ body.dark-mode th {
 body.dark-mode td {
   border-color: #555B60;
 }
+
+
+body.dark-mode td {
+  background-color: #343A40;
+  color: #E8E8E8;
+  border-color: #555B60;
+}
